@@ -2,8 +2,7 @@
 
 An Elm web interface that let you configure your device.
 
-
 ## Contributors
 
 - TOURE Ana Fatoumata
-- Wilfried-KOUADIO
+- Wilfried KOUADIO
